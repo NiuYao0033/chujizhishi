@@ -1,2 +1,1 @@
-print("niuyao")
-print("牛耀")
+print('人因梦想而伟大')
